@@ -2,7 +2,6 @@
   <div id="nav">
     <router-link to="/home">{{homeMsg}}</router-link> |
     <router-link to="/about">{{aboutMsg}}</router-link>
-    <el-button type="primary">主要按钮</el-button>
   </div>
 </template>
 
